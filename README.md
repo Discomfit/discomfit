@@ -2,7 +2,7 @@
 nuzzles your firewall Keep your data safe, or the bad actors will take it away! Stay secure and stay cute! >w<" - Network Chuck, 2026
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cuck.png" alt="Your Image Badge" />
-<img src="https://skillicons.dev/icons?i=ts,css,html,javascript,git,npm,nodejs,linux,postgres,mysql,discord" />
+<img src="https://skillicons.dev/icons?i=ts,css,html,javascript,git,npm,nodejs,linux,postgres,mysql,discord,figma" />
 
 <div align="left">
   <h1>Web Developer | Full-Stack • Always learning new frameworks & APIs</h1>
