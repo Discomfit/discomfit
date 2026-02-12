@@ -2,5 +2,5 @@
 <img src="https://skillicons.dev/icons?i=ts,css,html,javascript,git,npm,nodejs,linux,postgres,mysql,discord" />
 
 <div align="left">
-  Hello, I am a professional web developer who loves to learn new frameworks and APIs.
+  Hewwo, I am a pwofessionyaw web devewopew who wuvs to weawn nyew fwamewowks and APIs. >.<
 </div>
