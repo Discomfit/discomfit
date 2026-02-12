@@ -10,4 +10,6 @@ nuzzles your firewall Keep your data safe, or the bad actors will take it away! 
   I'm open to opportunities and interesting projects. Let’s connect!
 </div>
 
+<br />
+
 Bro I spent all night working on this read me bro.
