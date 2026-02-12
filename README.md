@@ -5,5 +5,9 @@ nuzzles your firewall Keep your data safe, or the bad actors will take it away! 
 <img src="https://skillicons.dev/icons?i=ts,css,html,javascript,git,npm,nodejs,linux,postgres,mysql,discord" />
 
 <div align="left">
-  Hello, I am a professional web developer who loves to learn new frameworks and APIs.
+  Web Developer | Full-Stack • Always learning new frameworks & APIs
+  <br />
+  Passionate about building clean, scalable web applications and staying current with modern tools and technologies. Love solving problems with elegant code and great UX.
+  <br />
+  Open to opportunities and interesting projects. Let’s connect!
 </div>
