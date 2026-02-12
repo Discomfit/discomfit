@@ -9,3 +9,5 @@ nuzzles your firewall Keep your data safe, or the bad actors will take it away! 
   Passionate about building clean, scalable web applications and staying current with modern tools and technologies. Love solving problems with elegant code and great UX.
   I'm open to opportunities and interesting projects. Let’s connect!
 </div>
+
+Bro I spent all night working on this read me bro.
