@@ -13,3 +13,5 @@ nuzzles your firewall Keep your data safe, or the bad actors will take it away! 
 <br />
 
 Bro I spent all night working on this read me bro.
+
+<img src="./friends.png" />
